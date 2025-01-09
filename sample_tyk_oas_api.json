@@ -52,7 +52,7 @@
   ],
   "servers": [
     {
-      "url": "https://localhost:8080"
+      "url": "https://localhost:8097"
     }
   ],
   "x-tyk-api-gateway": {
@@ -65,7 +65,7 @@
     "server": {
       "listenPath": {
         "strip": false,
-        "value": "/user-test/"
+        "value": "/user-test-nine/"
       }
     },
     "upstream": {
